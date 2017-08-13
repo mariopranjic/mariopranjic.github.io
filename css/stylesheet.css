@@ -1,3 +1,24 @@
+header {}
+
+h1 {
+	font-family: 'Bowlby One', cursive;
+	text-shadow: 2px 2px 4px gray;
+}
+
 nav p {
 	display: inline-block;
+	font-family: 'Prompt', sans-serif;
+	font-size: 2.75rem;
+	border-left: 5px solid red; /* animirat border da se izduži sa jquerijem */ 
+	margin: 20px;
+	padding-left: 20px;
+	text-shadow: 2px 2px 4px gray;
 }
+
+.jumbotron {
+	background-image: url("http://www.wallpaperup.com/uploads/wallpapers/2014/09/24/455840/1bc9efa023c08c7e9b300983e0162279.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+
